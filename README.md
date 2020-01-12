@@ -37,3 +37,4 @@ Video
   
 <img width="700" src="https://user-images.githubusercontent.com/44941601/72222077-35b22f00-35a4-11ea-8dc1-b5a076d78fca.gif"> 
 <hr/>  
+VS 2017, OpenGL
