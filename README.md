@@ -4,7 +4,7 @@ Computer Graphics - 3D Scene Viewer
 Description
 ===========
 
-This code is a C-language implementation of SIFT for Extraction of keypoint. 
+This code is a C-language implementation of 3D-Scene-Viewer.
 ----------------------------------------------
 This Project is that Loads 3D polygonal model and renders it as point clouds, wireframe and triangles
 ---------------------------------------------
