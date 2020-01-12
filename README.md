@@ -32,8 +32,6 @@ How to zoom in/out 3D scene
 2. Move it up and down to zoom in/out 3D scene
 <hr/>
 
-<hr/>
-
 Video
 ----------------
   
