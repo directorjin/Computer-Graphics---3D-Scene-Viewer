@@ -14,22 +14,26 @@ This Project is that allows a user to view 3D scene from an arbitrary position a
 
 Three rendering options
 -----------------------
+
 1.Press a key ‘1’ for point cloud rendering
 2.Press a key ‘2’ for wireframe rendering
 3.Press a key ‘3’ for triangle rendering
 
 How to rotate 3D scene
 ----------------------
+
 1.Pick a position in the screen by clicking left mouse button
 2.Drag it to a new position to rotate 3D scene
 
 How to zoom in/out 3D scene
 --------------------------
+
 1.Pick a position in the screen by clicking right mouse button
 2.Move it up and down to zoom in/out 3D scene
 <hr/>
 
-<hr/>   
+<hr/>
+
 Video
 ----------------
   
